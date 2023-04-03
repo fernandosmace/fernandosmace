@@ -35,7 +35,7 @@
 <kbd>Interesse em:</kbd> 
      <br />
      <br />    
-  <img align="center" title="RabbitMQ" alt="RabbitMQ" height="30" width="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.png">
+  <img align="center" title="RabbitMQ" alt="RabbitMQ" height="30" width="40" src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg">
  <br />
  <br />
  </kbd>
